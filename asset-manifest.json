@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Clyde_React/static/css/main.44de8857.css",
+    "main.js": "/Clyde_React/static/js/main.a46ebf01.js",
+    "static/media/bg_1.jpg": "/Clyde_React/static/media/bg_1.62317362ebfa9d1d8288.jpg",
+    "static/media/about-1.jpg": "/Clyde_React/static/media/about-1.1b047d7d6556180b63db.jpg",
+    "static/media/work-1.jpg": "/Clyde_React/static/media/work-1.587be72119e582eebf92.jpg",
+    "static/media/work-2.jpg": "/Clyde_React/static/media/work-2.a5ee1478aebfa9f733a5.jpg",
+    "static/media/work-3.jpg": "/Clyde_React/static/media/work-3.af681a273aaeb398ca52.jpg",
+    "static/media/work-6.jpg": "/Clyde_React/static/media/work-6.70d9018dbb41cece3e24.jpg",
+    "static/media/person_2.jpg": "/Clyde_React/static/media/person_2.9295e96dcc2125394ac2.jpg",
+    "static/media/person_1.jpg": "/Clyde_React/static/media/person_1.3955ff879ea1569e2a70.jpg",
+    "static/media/person_3.jpg": "/Clyde_React/static/media/person_3.375d3a375b39d5998ef3.jpg",
+    "static/media/slick.svg": "/Clyde_React/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Clyde_React/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Clyde_React/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Clyde_React/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Clyde_React/index.html",
+    "main.44de8857.css.map": "/Clyde_React/static/css/main.44de8857.css.map",
+    "main.a46ebf01.js.map": "/Clyde_React/static/js/main.a46ebf01.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44de8857.css",
+    "static/js/main.a46ebf01.js"
+  ]
+}
